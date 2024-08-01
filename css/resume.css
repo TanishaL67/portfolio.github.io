@@ -48,7 +48,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #006666;
+  color: #9465c9;
 }
 
 .list-social-icons a .fa-lg {
@@ -60,7 +60,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #006666;
+  color: #9465c9;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -137,15 +137,15 @@ section.resume-section .resume-item .resume-date {
 /* Existing parts of your code remain unchanged */
 
 .bg-primary {
-  background-color: #186e8d !important; /* Electric Blue */
+  background-color: #9465c9 !important; /* Purple */
 }
 
 .text-primary {
-  color: #186e8d !important; /* Electric Blue */
+  color: #9465c9 !important; /* Purple */
 }
 
 a {
-  color: #186e8d; /* Electric Blue */
+  color: #9465c9; /* Purple */
 }
 
 a:hover, a:focus, a:active {
