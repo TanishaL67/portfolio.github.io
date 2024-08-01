@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #d0bbe8;
+  color: #343237;
 }
 
 @media (min-width: 992px) {
@@ -48,7 +48,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #d0bbe8;
+  color: #343237;
 }
 
 .list-social-icons a .fa-lg {
@@ -60,7 +60,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #d0bbe8;
+  color: #343237;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -137,15 +137,15 @@ section.resume-section .resume-item .resume-date {
 /* Existing parts of your code remain unchanged */
 
 .bg-primary {
-  background-color: #d0bbe8 !important; /* Purple */
+  background-color: #343237 !important; /* Purple */
 }
 
 .text-primary {
-  color: #d0bbe8 !important; /* Purple */
+  color: #343237 !important; /* Purple */
 }
 
 a {
-  color: #d0bbe8; /* Purple */
+  color: #343237; /* Purple */
 }
 
 a:hover, a:focus, a:active {
